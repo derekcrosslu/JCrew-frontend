@@ -1,0 +1,32 @@
+.code {
+  background: #ffffff;
+  padding: 0.4rem;
+  font-size: 0.5rem;
+  font-family: soleil,Helvetica,Arial,sans-serif;
+}
+
+.tile {
+  text-align: left;
+  text-decoration: none;
+  border: 0px solid #ffffff;
+background-color: white;
+  min-height: 500px;
+}
+
+.tile:hover,
+.tile:focus,
+.tile:active {
+  color: #0070f3;
+  border-color: #0070f3;
+}
+
+.tile h2 {
+  margin: 0 0 0rem 0;
+  font-size: 0.9rem;
+}
+
+.tile p {
+  margin: 0;
+  font-size: 0.7rem;
+  line-height: 0.2rem;
+}
