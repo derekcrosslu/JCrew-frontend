@@ -33,7 +33,7 @@ npm run dev
 Thanks! =)
 ```
 
-
+INSTRUCTIONS
 
 Step 1:
 Download the JSON and category-server.js files from this link.
